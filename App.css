@@ -1,0 +1,23 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: white;
+  color: black;
+  margin: 0;
+  padding: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+ 
+ 
+button {
+  background-color: aquamarine;
+  font-size: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  height: 2rem;
+  width: 5rem;
+  cursor: pointer;
+  text-align: center;
+}
